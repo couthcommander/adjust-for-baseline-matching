@@ -7,7 +7,7 @@ Role of Matching When Adjusting for Baseline Differences
 
     !r
     install.packages(c('lmtest', 'sandwich', 'data.table'))
-    # nbpMatching is available on CRAN, but the most latest version is on R-Forge
+    # nbpMatching is available on CRAN, but the latest version is on R-Forge
     install.packages("nbpMatching", repos="http://R-Forge.R-project.org")
 
 ## Running the simulation
